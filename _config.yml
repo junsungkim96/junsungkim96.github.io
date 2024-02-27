@@ -106,10 +106,9 @@ analytics:
 author:
   name             : "Junsung Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Former physicist" <br>
-                     "Current SW engineer"
+  bio              : "Physics & SW"
   location         : "Seoul, South Korea"
-  email            :
+  email            : "junsung.k96@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
