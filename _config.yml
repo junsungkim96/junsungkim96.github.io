@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Junsung Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "- Former physicist <br>
-                      - Current SW engineer"
+  bio              : "- Former physicist" <br>
+                     "- Current SW engineer"
   location         : "Seoul, South Korea"
   email            :
   links:
